@@ -2,7 +2,7 @@
 
 ### Sobre mí
 - Desarrollador Full-Stack apasionado por la **IA** y siempre buscando aprender nuevas tecnologías.  
-- Actualmente trabajo en <img src="https://www.gmv.com/sites/default/files/content/image/2021/11/03/115/gmv_rgbredblack.png" height="35" alt="Gmv Logo"/>
+- Actualmente trabajo en **GMV**
 
 ---
 
