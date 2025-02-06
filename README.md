@@ -1,49 +1,47 @@
-<h2 align="left">¡Hola, soy Víctor González Cobos!</h2>
+# ¡Hola! Soy Víctor González👋
 
-### Sobre mí
-- Desarrollador Full-Stack apasionado por la **IA** y siempre buscando aprender nuevas tecnologías.  
-- Actualmente trabajo en **GMV**
+**Desarrollador de Software | Experto en Python e Inteligencia Artificial**
 
----
-
-### Tecnologías & Herramientas
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Badge"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge"/>
-</div>
+[📍 Valladolid, España](https://www.linkedin.com/in/v%C3%ADctor-gonz%C3%A1lez-cobos-18483429b/) | [LinkedIn](https://www.linkedin.com/in/v%C3%ADctor-gonz%C3%A1lez-cobos-18483429b/)
 
 ---
 
-<div align="center">
-  <!-- GitHub Readme Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorCodificando&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCodificando&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-</div>
+## Sobre mí
+
+Soy un desarrollador fullstack experto en **Python** apasionado por transformar procesos complejos en soluciones eficientes. Con amplia experiencia en **Python** y en el análisis de datos con **Pandas**, he automatizado y optimizado procesos en entornos corporativos. Actualmente, me especializo en **Inteligencia Artificial** y **Deep Learning** utilizando **PyTorch**, siempre en busca de nuevos retos y colaboraciones.
 
 ---
 
-### ¡Conecta conmigo!
-<div align="left">
-  <a href="mailto:victorcodificando@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/v%C3%ADctor-gonz%C3%A1lez-cobos-18483429b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://github.com/VictorCodificando" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="github logo"  />
-  </a>
-</div>
+## Tecnologías y Herramientas
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
 ---
 
-<p align="left">
-  <strong>Teléfono:</strong> 678 128 713
-</p>
+## Estadísticas de GitHub
+
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=victorCodificando&show_icons=true&theme=dracula)](https://github.com/victorCodificando)  
+[![Racha de Contribuciones](https://streak-stats.demolab.com?user=victorCodificando&theme=dracula)](https://github.com/victorCodificando)
+
+---
+
+## Proyectos Destacados
+
+- **Automatización de Procesos:**  
+  Scripts en **Python** con **Pandas** para optimizar y transformar datos dentro de mi trabajo actual **GMV**.
+  
+- **Modelos de Deep Learning:**  
+  Aprendizaje en desarrollo de soluciones de IA utilizando **PyTorch** y **TensorFlow**.
+
+---
+
+## Contacto
+
+¿Tienes alguna idea o proyecto en mente? ¡Conversemos!  
+[📧 victorcodificando@gmail.com](mailto:victorcodificando@gmail.com) | [LinkedIn](https://www.linkedin.com/in/v%C3%ADctor-gonz%C3%A1lez-cobos-18483429b/)
+
