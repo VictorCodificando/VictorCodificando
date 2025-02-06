@@ -1,4 +1,4 @@
-# ¡Hola! Soy Víctor González👋
+# Víctor González 😺
 
 **Desarrollador de Software | Experto en Python e Inteligencia Artificial**
 
