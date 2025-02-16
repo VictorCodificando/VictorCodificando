@@ -33,7 +33,7 @@ Soy un desarrollador fullstack experto en **Python** apasionado por transformar 
 ## Proyectos Destacados
 
 - **Automatización de Procesos:**  
-  Scripts en **Python** con **Pandas** para optimizar y transformar datos dentro de mi trabajo actual **GMV**.
+  Scripts en **Python** con **Pandas** para optimizar y transformar datos dentro de **GMV**.
   
 - **Modelos de Deep Learning:**  
   Aprendizaje en desarrollo de soluciones de IA utilizando **PyTorch** y **TensorFlow**.
