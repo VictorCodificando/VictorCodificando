@@ -1,6 +1,6 @@
 # Víctor González 😺
 
-** Desarrollador de Inteligencia Artificial | Experto en Python | Analista de datos | Big Data **
+**Desarrollador de Inteligencia Artificial | Experto en Python | Analista de datos | Big Data**
 
 [📍 Valladolid, España](https://www.linkedin.com/in/v%C3%ADctor-gonz%C3%A1lez-cobos-18483429b/) | [LinkedIn](https://www.linkedin.com/in/v%C3%ADctor-gonz%C3%A1lez-cobos-18483429b/)
 
