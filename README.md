@@ -22,7 +22,6 @@ Soy un desarrollador fullstack experto en **Python** apasionado por transformar 
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![alt text](https://img.shields.io/badge/LangChain-15A294?logo=langchain&logoColor=white)
 ![alt text](https://img.shields.io/badge/LangGraph-15A294?logo=langchain&logoColor=white)
 ---
